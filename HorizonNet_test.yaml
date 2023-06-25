@@ -1,0 +1,48 @@
+# Training settings Proposed
+exps_dir: 'experiments'
+iter_log_interval: 1
+iter_time_window: 100
+model_save_interval: 1
+seed: 1
+backup:
+model:
+  name: HorizonRegression
+  parameters:
+    num_outputs: 3 # 1 conf+1 pred_left_endpoint+1 pred_right_endpoint
+    pretrained: false
+    backbone: 'mobilenetv1'
+    pred_category: false
+    curriculum_steps: [0, 0, 0, 0]
+loss_parameters:
+  conf_weight: 100
+  left_point_weight: 100
+  right_point_weight: 100
+batch_size: 20
+epochs: 420
+optimizer:
+  name: Adam
+  parameters:
+    lr: 2.0e-3
+lr_scheduler:
+  name: CosineAnnealingLR
+  parameters:
+    T_max: 400
+
+# Testing settings
+test_parameters:
+  conf_threshold: 0.5
+
+# Dataset settings
+datasets:
+  SSL_target:
+    type: HorizonDataset
+    parameters:
+      dataset: HorizonSet
+      split: SSL_target
+      Horizon_num: 1
+      img_size: [288, 384]
+      root: "./data/SSL_target_set"
+      normalize: true #true
+      augmentations: []
+
+

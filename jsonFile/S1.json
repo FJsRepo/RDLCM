@@ -1,0 +1,195 @@
+{"point_targets": [[74, 205], [160, 206]], "rectangle_targets": [], "raw_file": "images/1_train_p292.png"}
+{"point_targets": [[245, 201]], "rectangle_targets": [], "raw_file": "images/1_test_p108.png"}
+{"point_targets": [[165, 178], [176, 177], [257, 176]], "rectangle_targets": [], "raw_file": "images/1_train_p88.png"}
+{"point_targets": [[75, 165], [171, 167], [260, 168]], "rectangle_targets": [], "raw_file": "images/1_train_p284.png"}
+{"point_targets": [[94, 181], [126, 180], [135, 180], [303, 177]], "rectangle_targets": [], "raw_file": "images/1_train_p142.png"}
+{"point_targets": [[91, 159], [115, 158], [172, 157], [309, 153]], "rectangle_targets": [], "raw_file": "images/1_train_p71.png"}
+{"point_targets": [[6, 216], [156, 220]], "rectangle_targets": [], "raw_file": "images/1_train_p247.png"}
+{"point_targets": [[235, 142], [308, 142]], "rectangle_targets": [], "raw_file": "images/1_train_p181.png"}
+{"point_targets": [[124, 136], [185, 135], [281, 135]], "rectangle_targets": [], "raw_file": "images/1_train_p206.png"}
+{"point_targets": [[293, 213], [248, 213]], "rectangle_targets": [], "raw_file": "images/1_train_p5.png"}
+{"point_targets": [[136, 188]], "rectangle_targets": [], "raw_file": "images/1_train_p251.png"}
+{"point_targets": [[96, 226]], "rectangle_targets": [], "raw_file": "images/1_test_p124.png"}
+{"point_targets": [[219, 137], [293, 137]], "rectangle_targets": [], "raw_file": "images/1_train_p197.png"}
+{"point_targets": [[140, 132], [214, 131], [331, 131]], "rectangle_targets": [], "raw_file": "images/1_train_p178.png"}
+{"point_targets": [[220, 141], [297, 139]], "rectangle_targets": [], "raw_file": "images/1_train_p84.png"}
+{"point_targets": [[209, 222]], "rectangle_targets": [], "raw_file": "images/1_test_p104.png"}
+{"point_targets": [[105, 231], [155, 233], [356, 241], [305, 239]], "rectangle_targets": [], "raw_file": "images/1_train_p271.png"}
+{"point_targets": [[93, 199], [180, 200], [356, 201]], "rectangle_targets": [], "raw_file": "images/1_train_p288.png"}
+{"point_targets": [[59, 178], [159, 180]], "rectangle_targets": [], "raw_file": "images/1_test_p112.png"}
+{"point_targets": [[95, 184], [197, 184], [217, 185], [245, 184], [341, 184]], "rectangle_targets": [], "raw_file": "images/1_train_p267.png"}
+{"point_targets": [[131, 230]], "rectangle_targets": [], "raw_file": "images/1_train_p230.png"}
+{"point_targets": [[64, 166], [212, 169]], "rectangle_targets": [], "raw_file": "images/1_test_p94.png"}
+{"point_targets": [[141, 180], [308, 176]], "rectangle_targets": [], "raw_file": "images/1_train_p135.png"}
+{"point_targets": [[264, 131], [340, 129]], "rectangle_targets": [], "raw_file": "images/1_test_p82.png"}
+{"point_targets": [[140, 131], [218, 131], [339, 131]], "rectangle_targets": [], "raw_file": "images/1_train_p174.png"}
+{"point_targets": [[91, 224], [112, 224]], "rectangle_targets": [], "raw_file": "images/1_train_p8.png"}
+{"point_targets": [[238, 124], [313, 120]], "rectangle_targets": [], "raw_file": "images/1_test_p83.png"}
+{"point_targets": [[115, 126], [193, 126], [313, 127]], "rectangle_targets": [], "raw_file": "images/1_train_p175.png"}
+{"point_targets": [[139, 228], [125, 228], [112, 228], [347, 230], [273, 229]], "rectangle_targets": [], "raw_file": "images/1_train_p11.png"}
+{"point_targets": [[255, 168]], "rectangle_targets": [], "raw_file": "images/1_test_p95.png"}
+{"point_targets": [[14, 219], [194, 225]], "rectangle_targets": [], "raw_file": "images/1_train_p231.png"}
+{"point_targets": [[45, 179], [157, 181], [200, 181], [266, 182]], "rectangle_targets": [], "raw_file": "images/1_test_p113.png"}
+{"point_targets": [[75, 224], [161, 227]], "rectangle_targets": [], "raw_file": "images/1_train_p289.png"}
+{"point_targets": [[48, 176], [81, 177], [171, 180], [218, 181], [261, 183]], "rectangle_targets": [], "raw_file": "images/1_train_p266.png"}
+{"point_targets": [[59, 231], [157, 235], [206, 237], [295, 240]], "rectangle_targets": [], "raw_file": "images/1_train_p270.png"}
+{"point_targets": [[366, 150]], "rectangle_targets": [], "raw_file": "images/1_train_p85.png"}
+{"point_targets": [[280, 128], [354, 127]], "rectangle_targets": [], "raw_file": "images/1_train_p196.png"}
+{"point_targets": [[120, 141], [193, 139], [309, 137]], "rectangle_targets": [], "raw_file": "images/1_train_p179.png"}
+{"point_targets": [[35, 216], [283, 220], [330, 219]], "rectangle_targets": [], "raw_file": "images/1_train_p4.png"}
+{"point_targets": [[6, 184], [56, 184], [79, 185], [184, 186]], "rectangle_targets": [], "raw_file": "images/1_train_p250.png"}
+{"point_targets": [[96, 225], [182, 228], [378, 232]], "rectangle_targets": [], "raw_file": "images/1_test_p125.png"}
+{"point_targets": [[186, 136], [259, 136], [375, 134]], "rectangle_targets": [], "raw_file": "images/1_train_p180.png"}
+{"point_targets": [[7, 225], [49, 227], [158, 230], [369, 234]], "rectangle_targets": [], "raw_file": "images/1_train_p246.png"}
+{"point_targets": [[9, 210], [45, 211], [51, 212], [191, 217], [237, 219], [279, 221], [322, 222]], "rectangle_targets": [], "raw_file": "images/1_train_p27.png"}
+{"point_targets": [[206, 166]], "rectangle_targets": [], "raw_file": "images/1_train_p143.png"}
+{"point_targets": [[187, 155], [243, 150], [163, 158]], "rectangle_targets": [], "raw_file": "images/1_train_p70.png"}
+{"point_targets": [[51, 174], [62, 174], [134, 174], [271, 176], [282, 176], [331, 176]], "rectangle_targets": [], "raw_file": "images/1_train_p285.png"}
+{"point_targets": [[92, 174], [174, 173], [309, 172]], "rectangle_targets": [], "raw_file": "images/1_train_p89.png"}
+{"point_targets": [[205, 173], [233, 173], [281, 173]], "rectangle_targets": [], "raw_file": "images/1_train_p66.png"}
+{"point_targets": [[203, 173], [274, 173]], "rectangle_targets": [], "raw_file": "images/1_train_p82.png"}
+{"point_targets": [[64, 203], [156, 211], [207, 215]], "rectangle_targets": [], "raw_file": "images/1_train_p277.png"}
+{"point_targets": [[185, 172], [230, 172]], "rectangle_targets": [], "raw_file": "images/1_test_p114.png"}
+{"point_targets": [[120, 182], [164, 183], [100, 182], [230, 184], [369, 186]], "rectangle_targets": [], "raw_file": "images/1_train_p261.png"}
+{"point_targets": [[189, 143], [257, 141], [354, 139]], "rectangle_targets": [], "raw_file": "images/1_test_p92.png"}
+{"point_targets": [[246, 201], [252, 202], [293, 202]], "rectangle_targets": [], "raw_file": "images/1_train_p41.png"}
+{"point_targets": [[103, 135], [177, 135], [289, 135]], "rectangle_targets": [], "raw_file": "images/1_test_p84.png"}
+{"point_targets": [[215, 137], [295, 137]], "rectangle_targets": [], "raw_file": "images/1_train_p172.png"}
+{"point_targets": [[57, 215], [204, 217], [298, 217]], "rectangle_targets": [], "raw_file": "images/1_train_p36.png"}
+{"point_targets": [[205, 236], [256, 237]], "rectangle_targets": [], "raw_file": "images/1_test_p118.png"}
+{"point_targets": [[41, 169], [124, 169], [345, 170], [353, 170]], "rectangle_targets": [], "raw_file": "images/1_train_p282.png"}
+{"point_targets": [[132, 177], [142, 177], [311, 176]], "rectangle_targets": [], "raw_file": "images/1_train_p144.png"}
+{"point_targets": [[10, 160], [30, 160], [95, 160], [146, 160], [232, 160]], "rectangle_targets": [], "raw_file": "images/1_train_p77.png"}
+{"point_targets": [[23, 210], [29, 210], [41, 210], [153, 212], [347, 214]], "rectangle_targets": [], "raw_file": "images/1_train_p241.png"}
+{"point_targets": [[242, 127], [320, 127]], "rectangle_targets": [], "raw_file": "images/1_train_p187.png"}
+{"point_targets": [[172, 153], [259, 153]], "rectangle_targets": [], "raw_file": "images/1_train_p168.png"}
+{"point_targets": [[31, 194], [62, 195], [213, 201]], "rectangle_targets": [], "raw_file": "images/1_train_p216.png"}
+{"point_targets": [[216, 149], [164, 149], [137, 149], [120, 149]], "rectangle_targets": [], "raw_file": "images/1_test_p26.png"}
+{"point_targets": [[62, 144], [133, 142], [231, 141]], "rectangle_targets": [], "raw_file": "images/1_train_p200.png"}
+{"point_targets": [[198, 156], [245, 156]], "rectangle_targets": [], "raw_file": "images/1_test_p30.png"}
+{"point_targets": [[30, 178], [44, 178], [155, 179], [198, 179], [331, 181]], "rectangle_targets": [], "raw_file": "images/1_train_p257.png"}
+{"point_targets": [[105, 222]], "rectangle_targets": [], "raw_file": "images/1_train_p3.png"}
+{"point_targets": [[91, 165], [173, 164], [178, 163]], "rectangle_targets": [], "raw_file": "images/1_test_p122.png"}
+{"point_targets": [[164, 126], [245, 125], [350, 125]], "rectangle_targets": [], "raw_file": "images/1_test_p88.png"}
+{"point_targets": [[97, 139], [180, 138], [286, 136]], "rectangle_targets": [], "raw_file": "images/1_train_p191.png"}
+{"point_targets": [[91, 132], [170, 131], [267, 131], [274, 131]], "rectangle_targets": [], "raw_file": "images/1_test_p89.png"}
+{"point_targets": [[115, 141], [197, 140], [303, 139]], "rectangle_targets": [], "raw_file": "images/1_train_p190.png"}
+{"point_targets": [[9, 175], [57, 176], [187, 179], [229, 180], [86, 177]], "rectangle_targets": [], "raw_file": "images/1_train_p256.png"}
+{"point_targets": [[71, 230], [93, 230], [285, 231], [312, 231]], "rectangle_targets": [], "raw_file": "images/1_train_p2.png"}
+{"point_targets": [[70, 156], [106, 157], [123, 156], [206, 157], [156, 157], [330, 157], [353, 158]], "rectangle_targets": [], "raw_file": "images/1_test_p31.png"}
+{"point_targets": [[264, 131], [331, 131]], "rectangle_targets": [], "raw_file": "images/1_train_p201.png"}
+{"point_targets": [[243, 146], [269, 146], [322, 145]], "rectangle_targets": [], "raw_file": "images/1_test_p27.png"}
+{"point_targets": [[312, 122]], "rectangle_targets": [], "raw_file": "images/1_train_p186.png"}
+{"point_targets": [[209, 139], [292, 137]], "rectangle_targets": [], "raw_file": "images/1_train_p169.png"}
+{"point_targets": [[57, 208], [111, 210], [237, 213]], "rectangle_targets": [], "raw_file": "images/1_train_p240.png"}
+{"point_targets": [[71, 157], [92, 157], [156, 158], [207, 158], [292, 159]], "rectangle_targets": [], "raw_file": "images/1_train_p76.png"}
+{"point_targets": [[73, 170], [150, 170], [156, 170], [244, 171], [255, 171], [377, 171]], "rectangle_targets": [], "raw_file": "images/1_train_p283.png"}
+{"point_targets": [[20, 137], [149, 135], [224, 134], [336, 133]], "rectangle_targets": [], "raw_file": "images/1_test_p85.png"}
+{"point_targets": [[172, 133], [251, 133], [336, 134], [374, 133]], "rectangle_targets": [], "raw_file": "images/1_train_p173.png"}
+{"point_targets": [[63, 211], [327, 216]], "rectangle_targets": [], "raw_file": "images/1_train_p17.png"}
+{"point_targets": [[139, 170], [186, 170]], "rectangle_targets": [], "raw_file": "images/1_test_p115.png"}
+{"point_targets": [[31, 180], [146, 182], [154, 182], [199, 183], [361, 185]], "rectangle_targets": [], "raw_file": "images/1_train_p260.png"}
+{"point_targets": [[161, 212]], "rectangle_targets": [], "raw_file": "images/1_test_p103.png"}
+{"point_targets": [[48, 198], [97, 201], [175, 205], [227, 207], [374, 214]], "rectangle_targets": [], "raw_file": "images/1_train_p276.png"}
+{"point_targets": [[91, 160], [108, 159], [180, 160], [232, 161], [316, 161], [373, 163]], "rectangle_targets": [], "raw_file": "images/1_train_p83.png"}
+{"point_targets": [[243, 193]], "rectangle_targets": [], "raw_file": "images/1_train_p221.png"}
+{"point_targets": [[106, 180], [118, 180], [216, 180], [260, 180], [345, 181], [286, 181]], "rectangle_targets": [], "raw_file": "images/1_train_p259.png"}
+{"point_targets": [[325, 131]], "rectangle_targets": [], "raw_file": "images/1_train_p170.png"}
+{"point_targets": [[75, 204], [82, 204], [123, 204], [225, 204], [257, 205]], "rectangle_targets": [], "raw_file": "images/1_train_p43.png"}
+{"point_targets": [[190, 133], [265, 131], [377, 130]], "rectangle_targets": [], "raw_file": "images/1_test_p86.png"}
+{"point_targets": [[150, 188], [164, 188], [299, 190], [375, 191]], "rectangle_targets": [], "raw_file": "images/1_train_p14.png"}
+{"point_targets": [[349, 141]], "rectangle_targets": [], "raw_file": "images/1_test_p28.png"}
+{"point_targets": [[280, 146], [371, 146]], "rectangle_targets": [], "raw_file": "images/1_train_p166.png"}
+{"point_targets": [[145, 139], [227, 138], [334, 136]], "rectangle_targets": [], "raw_file": "images/1_train_p189.png"}
+{"point_targets": [[111, 149], [181, 148], [279, 146]], "rectangle_targets": [], "raw_file": "images/1_test_p90.png"}
+{"point_targets": [[82, 227], [130, 227], [262, 229]], "rectangle_targets": [], "raw_file": "images/1_train_p234.png"}
+{"point_targets": [[158, 175], [203, 176], [268, 176]], "rectangle_targets": [], "raw_file": "images/1_train_p263.png"}
+{"point_targets": [[64, 166], [83, 165], [151, 164], [287, 161]], "rectangle_targets": [], "raw_file": "images/1_train_p79.png"}
+{"point_targets": [[73, 224], [85, 224], [167, 226], [218, 228]], "rectangle_targets": [], "raw_file": "images/1_train_p275.png"}
+{"point_targets": [[201, 202]], "rectangle_targets": [], "raw_file": "images/1_test_p100.png"}
+{"point_targets": [[153, 158], [222, 157]], "rectangle_targets": [], "raw_file": "images/1_train_p80.png"}
+{"point_targets": [[70, 139], [148, 139], [251, 137]], "rectangle_targets": [], "raw_file": "images/1_train_p193.png"}
+{"point_targets": [[34, 181], [135, 184], [178, 184]], "rectangle_targets": [], "raw_file": "images/1_train_p255.png"}
+{"point_targets": [[220, 213]], "rectangle_targets": [], "raw_file": "images/1_train_p18.png"}
+{"point_targets": [[175, 148], [240, 146], [338, 145], [347, 145]], "rectangle_targets": [], "raw_file": "images/1_train_p202.png"}
+{"point_targets": [[277, 120], [353, 116]], "rectangle_targets": [], "raw_file": "images/1_train_p185.png"}
+{"point_targets": [[139, 218], [251, 218], [71, 217]], "rectangle_targets": [], "raw_file": "images/1_train_p243.png"}
+{"point_targets": [[278, 149], [301, 149], [362, 147]], "rectangle_targets": [], "raw_file": "images/1_train_p75.png"}
+{"point_targets": [[50, 189], [82, 191], [171, 199], [224, 204]], "rectangle_targets": [], "raw_file": "images/1_train_p280.png"}
+{"point_targets": [[159, 194], [211, 198], [68, 185]], "rectangle_targets": [], "raw_file": "images/1_train_p279.png"}
+{"point_targets": [[165, 224], [204, 225], [370, 225]], "rectangle_targets": [], "raw_file": "images/1_train_p34.png"}
+{"point_targets": [[106, 220], [250, 221]], "rectangle_targets": [], "raw_file": "images/1_train_p35.png"}
+{"point_targets": [[41, 211], [132, 217], [184, 221]], "rectangle_targets": [], "raw_file": "images/1_train_p278.png"}
+{"point_targets": [[8, 166], [81, 166], [164, 167]], "rectangle_targets": [], "raw_file": "images/1_train_p281.png"}
+{"point_targets": [[198, 162], [222, 161], [281, 162], [332, 163]], "rectangle_targets": [], "raw_file": "images/1_train_p74.png"}
+{"point_targets": [[40, 207], [47, 207], [186, 210]], "rectangle_targets": [], "raw_file": "images/1_train_p23.png"}
+{"point_targets": [[15, 206], [68, 206], [82, 206], [194, 207]], "rectangle_targets": [], "raw_file": "images/1_train_p242.png"}
+{"point_targets": [[208, 146], [291, 145]], "rectangle_targets": [], "raw_file": "images/1_test_p72.png"}
+{"point_targets": [[150, 138], [223, 138], [336, 138]], "rectangle_targets": [], "raw_file": "images/1_train_p184.png"}
+{"point_targets": [[178, 164], [187, 164], [202, 164], [214, 164], [265, 164], [313, 164], [38, 163]], "rectangle_targets": [], "raw_file": "images/1_test_p25.png"}
+{"point_targets": [[124, 146], [189, 145], [285, 145]], "rectangle_targets": [], "raw_file": "images/1_train_p203.png"}
+{"point_targets": [[49, 154], [64, 153], [140, 152], [274, 152]], "rectangle_targets": [], "raw_file": "images/1_test_p33.png"}
+{"point_targets": [[156, 163], [73, 163], [58, 164]], "rectangle_targets": [], "raw_file": "images/1_test_p121.png"}
+{"point_targets": [[165, 180], [207, 181]], "rectangle_targets": [], "raw_file": "images/1_train_p254.png"}
+{"point_targets": [[26, 145], [151, 142], [234, 141], [339, 141]], "rectangle_targets": [], "raw_file": "images/1_train_p192.png"}
+{"point_targets": [[209, 159], [279, 159], [332, 159]], "rectangle_targets": [], "raw_file": "images/1_train_p81.png"}
+{"point_targets": [[196, 223]], "rectangle_targets": [], "raw_file": "images/1_test_p101.png"}
+{"point_targets": [[36, 169], [86, 169], [172, 169]], "rectangle_targets": [], "raw_file": "images/1_train_p78.png"}
+{"point_targets": [[106, 176], [151, 177]], "rectangle_targets": [], "raw_file": "images/1_train_p262.png"}
+{"point_targets": [[28, 225], [177, 229], [226, 230], [361, 232]], "rectangle_targets": [], "raw_file": "images/1_test_p117.png"}
+{"point_targets": [[8, 228], [61, 230], [187, 237]], "rectangle_targets": [], "raw_file": "images/1_train_p235.png"}
+{"point_targets": [[222, 158], [311, 158]], "rectangle_targets": [], "raw_file": "images/1_train_p167.png"}
+{"point_targets": [[190, 124], [271, 124], [379, 124], [65, 125]], "rectangle_targets": [], "raw_file": "images/1_train_p188.png"}
+{"point_targets": [[173, 149], [242, 148]], "rectangle_targets": [], "raw_file": "images/1_test_p91.png"}
+{"point_targets": [[348, 151], [238, 152], [153, 152], [160, 152], [298, 152]], "rectangle_targets": [], "raw_file": "images/1_test_p29.png"}
+{"point_targets": [[22, 190], [138, 191], [265, 191]], "rectangle_targets": [], "raw_file": "images/1_train_p219.png"}
+{"point_targets": [[44, 190], [60, 190], [74, 190], [92, 191], [209, 194]], "rectangle_targets": [], "raw_file": "images/1_train_p15.png"}
+{"point_targets": [[272, 132], [352, 132]], "rectangle_targets": [], "raw_file": "images/1_train_p171.png"}
+{"point_targets": [[157, 197], [307, 199], [115, 197]], "rectangle_targets": [], "raw_file": "images/1_train_p42.png"}
+{"point_targets": [[204, 141], [286, 140], [77, 143]], "rectangle_targets": [], "raw_file": "images/1_test_p87.png"}
+{"point_targets": [[5, 176], [72, 176], [183, 177], [227, 177]], "rectangle_targets": [], "raw_file": "images/1_train_p258.png"}
+{"point_targets": [[212, 135], [288, 133]], "rectangle_targets": [], "raw_file": "images/1_train_p195.png"}
+{"point_targets": [[42, 156], [124, 158], [167, 159]], "rectangle_targets": [], "raw_file": "images/1_train_p253.png"}
+{"point_targets": [[60, 141], [123, 139], [220, 138]], "rectangle_targets": [], "raw_file": "images/1_train_p204.png"}
+{"point_targets": [[201, 139], [274, 139]], "rectangle_targets": [], "raw_file": "images/1_train_p183.png"}
+{"point_targets": [[25, 230], [80, 232], [203, 236]], "rectangle_targets": [], "raw_file": "images/1_train_p245.png"}
+{"point_targets": [[161, 174], [220, 174], [358, 171]], "rectangle_targets": [], "raw_file": "images/1_train_p73.png"}
+{"point_targets": [[111, 227], [210, 230], [259, 231]], "rectangle_targets": [], "raw_file": "images/1_train_p269.png"}
+{"point_targets": [[43, 222], [129, 224]], "rectangle_targets": [], "raw_file": "images/1_train_p286.png"}
+{"point_targets": [[83, 212], [169, 215]], "rectangle_targets": [], "raw_file": "images/1_train_p290.png"}
+{"point_targets": [[95, 126], [172, 126], [292, 127]], "rectangle_targets": [], "raw_file": "images/1_train_p176.png"}
+{"point_targets": [[101, 142], [172, 142], [272, 141]], "rectangle_targets": [], "raw_file": "images/1_train_p199.png"}
+{"point_targets": [[96, 223], [136, 223], [156, 223], [297, 221]], "rectangle_targets": [], "raw_file": "images/1_train_p45.png"}
+{"point_targets": [[129, 143], [213, 143], [339, 144]], "rectangle_targets": [], "raw_file": "images/1_test_p80.png"}
+{"point_targets": [[144, 207], [158, 207], [293, 208]], "rectangle_targets": [], "raw_file": "images/1_train_p12.png"}
+{"point_targets": [[28, 194], [153, 196], [263, 197]], "rectangle_targets": [], "raw_file": "images/1_train_p249.png"}
+{"point_targets": [[150, 148], [235, 147], [362, 147]], "rectangle_targets": [], "raw_file": "images/1_test_p79.png"}
+{"point_targets": [[193, 182], [234, 183]], "rectangle_targets": [], "raw_file": "images/1_test_p96.png"}
+{"point_targets": [[8, 174], [21, 174], [111, 176], [158, 178]], "rectangle_targets": [], "raw_file": "images/1_train_p265.png"}
+{"point_targets": [[19, 208], [84, 210], [199, 213], [236, 214]], "rectangle_targets": [], "raw_file": "images/1_test_p106.png"}
+{"point_targets": [[240, 139], [294, 142]], "rectangle_targets": [], "raw_file": "images/1_train_p69.png"}
+{"point_targets": [[79, 169]], "rectangle_targets": [], "raw_file": "images/1_train_p86.png"}
+{"point_targets": [[313, 141], [367, 140]], "rectangle_targets": [], "raw_file": "images/1_train_p68.png"}
+{"point_targets": [[327, 162]], "rectangle_targets": [], "raw_file": "images/1_train_p87.png"}
+{"point_targets": [[72, 229], [122, 231], [281, 237]], "rectangle_targets": [], "raw_file": "images/1_train_p272.png"}
+{"point_targets": [[22, 217], [35, 217], [148, 218]], "rectangle_targets": [], "raw_file": "images/1_test_p107.png"}
+{"point_targets": [[81, 173], [174, 174], [220, 174]], "rectangle_targets": [], "raw_file": "images/1_train_p264.png"}
+{"point_targets": [[49, 174], [228, 176], [270, 177], [368, 178]], "rectangle_targets": [], "raw_file": "images/1_test_p111.png"}
+{"point_targets": [[110, 209], [237, 210]], "rectangle_targets": [], "raw_file": "images/1_train_p233.png"}
+{"point_targets": [[181, 149], [267, 149]], "rectangle_targets": [], "raw_file": "images/1_test_p78.png"}
+{"point_targets": [[105, 205], [214, 207]], "rectangle_targets": [], "raw_file": "images/1_train_p248.png"}
+{"point_targets": [[118, 200], [195, 199], [209, 200], [343, 199], [226, 199], [333, 199]], "rectangle_targets": [], "raw_file": "images/1_train_p13.png"}
+{"point_targets": [[193, 130], [267, 130]], "rectangle_targets": [], "raw_file": "images/1_train_p177.png"}
+{"point_targets": [[155, 138], [228, 138], [327, 137]], "rectangle_targets": [], "raw_file": "images/1_train_p198.png"}
+{"point_targets": [[172, 118], [248, 117], [368, 116]], "rectangle_targets": [], "raw_file": "images/1_test_p81.png"}
+{"point_targets": [[140, 243]], "rectangle_targets": [], "raw_file": "images/1_train_p229.png"}
+{"point_targets": [[62, 206], [148, 208]], "rectangle_targets": [], "raw_file": "images/1_train_p291.png"}
+{"point_targets": [[46, 220], [133, 222], [315, 224]], "rectangle_targets": [], "raw_file": "images/1_train_p287.png"}
+{"point_targets": [[34, 179], [58, 179], [116, 178], [253, 176], [338, 176]], "rectangle_targets": [], "raw_file": "images/1_train_p72.png"}
+{"point_targets": [[267, 230], [155, 228], [142, 228]], "rectangle_targets": [], "raw_file": "images/1_train_p244.png"}
+{"point_targets": [[90, 144], [287, 141], [359, 140]], "rectangle_targets": [], "raw_file": "images/1_train_p182.png"}
+{"point_targets": [[46, 140], [108, 140], [205, 139]], "rectangle_targets": [], "raw_file": "images/1_train_p205.png"}
+{"point_targets": [[5, 168], [54, 168], [79, 168], [183, 171], [362, 175]], "rectangle_targets": [], "raw_file": "images/1_train_p252.png"}
+{"point_targets": [[60, 208], [80, 209], [166, 210], [211, 211]], "rectangle_targets": [], "raw_file": "images/1_train_p6.png"}
+{"point_targets": [[89, 214], [111, 214], [253, 213]], "rectangle_targets": [], "raw_file": "images/1_train_p48.png"}
+{"point_targets": [[139, 138], [216, 136], [317, 135]], "rectangle_targets": [], "raw_file": "images/1_train_p194.png"}
