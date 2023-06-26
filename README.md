@@ -15,7 +15,7 @@ these images were divided into three sequences based on the imaging environment 
 All images are in PNG format with a resolution of 288$\times$384 pixels and shot with an infrared camera $Xinfrared$ with band 8$\sim$14 $\mu m$. 
 The labeling tool is Labelme \cite{labelme}.
 ## Run detect.py to validate RDLCM
-To run the code you should first configure the correct environment, the de could refer to [InfML-HDD](https://github.com/FJsRepo/InfML-HDD).
+To run the code you should first configure the correct environment, the details could refer to [InfML-HDD](https://github.com/FJsRepo/InfML-HDD).
 
 The whole project is based on Python 3 and PyTorch, the version we used is Python-3.6.13 and PyTorch-1.7.1, 
 the project and other key packages could be downloaded and installed by:
