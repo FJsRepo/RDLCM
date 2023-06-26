@@ -5,8 +5,8 @@
 
 ## About RDLCM
 Regional-Division Local Contrast Measure (RDLCM) is specially designed for the infrared small dim targets detection appearing near the SSL.
-This code aims to reproduce the results of RDLCM in our paper, the infrared images are included in ./data/, and 
-the trained model for sea-sky line detection is included in ./experiments/Horizon/models.
+This code aims to reproduce the results of RDLCM in our paper, Download the datasets [here](https://drive.google.com/file/d/1g9x0jbV7yjp7qeEcxOHHzufkZHCrYk16/view?usp=sharing), 
+and unzip them in ./data/., and the trained model for sea-sky line detection is included in ./experiments/Horizon/models.
  
 ## About the dataset
 
@@ -14,7 +14,6 @@ The images containing targets appearing near the SSL are extracted from the open
 these images were divided into three sequences based on the imaging environment characteristics. 
 All images are in PNG format with a resolution of 288$\times$384 pixels and shot with an infrared camera $Xinfrared$ with band 8$\sim$14 $\mu m$. 
 The labeling tool is Labelme \cite{labelme}.
-
 ## Run detect.py to validate RDLCM
 To run the code you should first configure the correct environment, the de could refer to [InfML-HDD](https://github.com/FJsRepo/InfML-HDD).
 
