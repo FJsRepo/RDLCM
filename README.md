@@ -5,8 +5,8 @@
 
 ## About RDLCM
 Regional-Division Local Contrast Measure (RDLCM) is specially designed for the infrared small dim targets detection appearing near the SSL.
-This code aims to reproduce the results of RDLCM in our paper, Download the datasets [here](https://drive.google.com/file/d/1g9x0jbV7yjp7qeEcxOHHzufkZHCrYk16/view?usp=sharing), 
-and unzip them in ./data/., and the trained model for sea-sky line detection is included in ./experiments/Horizon/models.
+This code aims to reproduce the results of RDLCM in our paper. Download the datasets [here](https://drive.google.com/file/d/1g9x0jbV7yjp7qeEcxOHHzufkZHCrYk16/view?usp=sharing), 
+and unzip them in ./data/. The labeled sequence file is in ./jsonFile/ and the trained model for sea-sky line detection is included in ./experiments/Horizon/models.
  
 ## About the dataset
 
